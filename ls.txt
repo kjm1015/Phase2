@@ -5,4 +5,3 @@ drwxr-xr-x 1 jwjw1 197609     0 Apr 19 23:26 .git/
 -rw-r--r-- 1 jwjw1 197609  7360 Apr 19 23:26 .gitignore
 -rw-r--r-- 1 jwjw1 197609 35823 Apr 19 23:26 LICENSE
 -rw-r--r-- 1 jwjw1 197609    59 Apr 19 23:26 README.md
--rw-r--r-- 1 jwjw1 197609     0 May 18 19:49 ls.txt
